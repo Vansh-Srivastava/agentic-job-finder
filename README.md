@@ -118,6 +118,10 @@ Filter High-Scoring Jobs
        ▼
 Send Slack Notifications
 ```
+---
+## 📷 Workflow Screenshots
+
+<img width="1240" height="657" alt="image" src="https://github.com/user-attachments/assets/44c51b49-fc3d-4bcc-852c-bbda66f4d329" />
 
 ---
 
